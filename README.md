@@ -4,11 +4,6 @@
 
 Type a feeling, a situation, or a concept. PsycheDive reads real psychology research (**Europe PMC** + **OpenAlex**) and writes an evidence-checked explanation. Then it helps you keep what you learned with bookmarks, a concept map, games and PDF export.
 
-![Version](https://img.shields.io/badge/version-B%20%C2%B7%20Field%20Notebook-2B6173)
-![Single file](https://img.shields.io/badge/app-single%20HTML%20file-5EACB2)
-![No install](https://img.shields.io/badge/install-none-4E75AB)
-![Dark mode](https://img.shields.io/badge/dark%20mode-teal%20palette-9CB6C2)
-
 > **Educational psychology only.** PsycheDive is not a diagnostic or therapy tool. If something feels heavy, please talk to a qualified professional or someone you trust.
 
 ---
